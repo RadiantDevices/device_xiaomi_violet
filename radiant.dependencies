@@ -2,19 +2,12 @@
   {
     "repository": "vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi/violet",
-    "branch": "twelve",
-    "remote": "SuperiorOS-Devices"
+    "branch": "twelve"
   },
   {
     "repository": "kernel_xiaomi_violet",
     "target_path": "kernel/xiaomi/violet",
-    "branch": "twelve",
-    "remote": "SuperiorOS-Devices"
-  },
-    "repository": "device_xiaomi_extras",
-    "target_path": "device/xiaomi/extras",
-    "branch": "twelve",
-    "remote": "SuperiorOS-Devices"
+    "branch": "twelve"
   },
   {
     "repository": "kdrag0n/proton-clang",

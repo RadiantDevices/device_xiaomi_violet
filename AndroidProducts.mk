@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_violet.mk
+    $(LOCAL_DIR)/radiant_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_violet-userdebug \
-    derp_violet-user \
-    derp_violet-eng
+    radiant_violet-userdebug \
+    radiant_violet-user \
+    radiant_violet-eng
