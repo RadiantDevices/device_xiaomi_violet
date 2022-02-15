@@ -10,6 +10,11 @@
     "branch": "twelve"
   },
   {
+    "repository": "device_xiaomi_ifaamanager",
+    "target_path": "device/xiaomi/extras",
+    "branch": "twelve"
+  },
+  {
     "repository": "kdrag0n/proton-clang",
     "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
     "branch": "master",
